@@ -10,7 +10,6 @@ hide_description: true
 classes:
   - wide
 permalink: /
-redirect_from: /index.html
 sidebar:
   nav: subpages
 ---
