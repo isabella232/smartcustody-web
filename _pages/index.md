@@ -3,7 +3,7 @@ cover: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/qr-background.jpg
+  overlay_image: /assets/images/sidebar-bg.jpg
   og_image: /assets/images/sc-card.jpg
 title: #SmartCustody Overview
 hide_description: true
