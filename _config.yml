@@ -57,7 +57,7 @@ plugins:
   
 author:
   name   : "Blockchain Commons"
-  avatar : "/images/bc-logo-white-avatar.png"
+  avatar : "/assets/images/bc-logo-white-avatar.png"
   bio    : "Creating Open & Interoperable, Secure & Compassionate Digital Infrastructure"
   links:
     - label: "GitHub"
