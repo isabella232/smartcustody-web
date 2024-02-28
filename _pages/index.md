@@ -49,13 +49,13 @@ In advance of the new edition of the book, we are also researching and publishin
 A new scenario on multisigs will be the heart of a new book.
 
 * [Multi-sig Self Custody Scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) (April 2022) — Scenario for using multisigs (first draft; undergoing review).
+    * [Improving Multsigs with Request/Response](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig-RR.md) (February 2024) — Why Request/Response methods are needed to create the next generation of more accessible self-sovereign scenarios.
 
 ### Multisigs
 
 Multisigs help ensure the resilience of #SmartCustody by eliminating single points of failure and single points of compromise.
 
 * [Designing Multisig for Indepedence & Resilience](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md) (March 2021) - Design process & sample multisigs (released).
-    * [Improving Multsigs with Request/Response](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig-RR.md) (February 2024) — Why Request/Response methods are needed to create the next generation of more accessible self-sovereign scenarios.
 
 ### SSKR Shares
 
