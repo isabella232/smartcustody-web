@@ -14,6 +14,9 @@ sidebar:
   nav: subpages
 ---
 
+_**Latest News:** Added [Improving Multisig Custody with Request & Response](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig-RR.md) (2/28/24)._
+{: .notice--warning}
+
 <a href="https://bit.ly/SmartCustodyBookV101"><img src="http://www.smartcustody.com/assets/images/book-cover-v1-med.jpg" width=300 align="right"></a>*"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."*
 
 Our goals:
